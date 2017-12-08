@@ -4,7 +4,7 @@
 		module="dataanalyzer$sources"
 		revision="0.1"
 		status="integration"
-		publication="20171208102003"
+		publication="20171208102228"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
